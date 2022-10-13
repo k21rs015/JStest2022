@@ -1,17 +1,17 @@
 /**/
 
 html,body {
-  background: red;
-  height: 80%;
+  background: skyblue;
+  height: 100%;
 }
 
 .out {
   border: solid 1px black;
   border-radius: 20px;
-  padding: 20px;
-  margin: 10px;
-  height: 60%;
-  background: skyblue;
+  padding: 10px;
+  margin: 5px;
+  height: 40%;
+  background: white;
 }
 
 #btn {
